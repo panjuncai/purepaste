@@ -1,0 +1,15 @@
+.DS_Store
+
+# Swift / Xcode user data
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Local build artifacts
+build/
+dist/
+
+# Temporary binaries
+ClipboardFormatterStripper
+ClipboardFormatterStripper-x86_64
