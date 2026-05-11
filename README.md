@@ -62,4 +62,4 @@ swiftc ClipboardFormatterStripper.swift -o PurePaste.app/Contents/MacOS/PurePast
 
 ## License
 
-如需公开分发，建议补充明确的许可证文件。
+本项目基于 [MIT License](./LICENSE) 开源。
