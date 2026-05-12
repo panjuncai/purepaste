@@ -9,7 +9,13 @@ xcuserdata/
 # Local build artifacts
 build/
 dist/
+artifacts/
 
 # Temporary binaries
 ClipboardFormatterStripper
 ClipboardFormatterStripper-x86_64
+
+# .NET / Windows
+windows/**/bin/
+windows/**/obj/
+.vs/
